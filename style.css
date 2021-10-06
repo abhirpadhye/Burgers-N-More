@@ -1,0 +1,66 @@
+.myrows{
+  border: 3px solid green;
+  padding: 5px;
+}
+.mycols{
+  border: 3px solid red;
+}
+.mycontainer{
+  background-color: aqua;
+}
+#topHeader{
+  border-bottom: 5px solid black;
+}
+#topHeader a{
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: ;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+.navbar{
+background-color:black;
+}
+.navbar-nav{
+  font-size: 20px;  
+}
+.full-list{
+  background-color: red;
+}
+
+nav ul li a {
+  font-size: 1.1rem;
+  font-weight: 900;
+ }
+.top-footer p{
+  color: wheat;
+}
+.top-footer a{
+  color: wheat;
+}
+
+ .full-footer{
+   background-color: #004d80;
+   bottom: 0%;
+   
+
+ }
+ .img{
+  background-color: #2c3e50;
+ }
+ .bottom-footer{
+   background-color:black ;
+   
+  
+ }
+ .dropdown-menu{
+   color: red;
+ }
+ #maincontent{
+   color: #fc0328;
+   text-align: center;
+   padding: 20px;
+ }
